@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Own/+3KZntB6ofPcNgK1rhw9lU8dnCO96HnV2DJXJ88=",
+  "Source": "ApiGatewayDocusaurusQA",
+  "BasePath": "_content/ApiGatewayDocusaurusQA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,6 @@
+@ApiGatewayDocusaurusQA_HostAddress = http://localhost:5085
+
+GET {{ApiGatewayDocusaurusQA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
