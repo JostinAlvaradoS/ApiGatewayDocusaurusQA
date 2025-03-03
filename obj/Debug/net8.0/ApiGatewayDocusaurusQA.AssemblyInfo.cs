@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiGatewayDocusaurusQA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd96d798f39767891f651e9978fdb2368ddf77e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc55725a8cbfd3709ace572f3c86066f2b39fcbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiGatewayDocusaurusQA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiGatewayDocusaurusQA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
